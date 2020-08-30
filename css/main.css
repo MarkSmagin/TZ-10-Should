@@ -1,0 +1,28 @@
+html{
+    font-size: 1.46vw;
+}
+
+.parent{
+    height: 50vh;
+    width: 100%;
+}
+
+.column1{
+    background: red;
+    width: 20vw;
+    float: left;
+    height: 100%;
+}
+
+.column2{
+    background: yellow;
+    overflow: hidden;
+    height: 100%;
+}
+
+.column3{
+    background: green;
+    width: 20vw;
+    float: right;
+    height: 100%;
+}
